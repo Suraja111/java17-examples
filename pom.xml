@@ -5,7 +5,7 @@
     <groupId>com.neiljbrown</groupId>
     <artifactId>java17-examples</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>java17-examples</name>
     <description>Example of Java language features available in Java 17 (new features introduced since previous Java 11 LTS release).</description>
